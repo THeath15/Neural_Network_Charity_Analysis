@@ -43,11 +43,12 @@ The dataset consisted of a CSV of over 34,000 organizations that received fundin
 
 ![image](https://user-images.githubusercontent.com/92903447/157958281-35980fe7-c0d1-41dd-87d9-dd2d98c0ab9d.png)
 
-**Attempt3":**
+**Attempt 3:**
 
 ![image](https://user-images.githubusercontent.com/92903447/157958827-0dde54c1-9ff0-49de-b0c1-7d40c242e53a.png)
 
 **Loss and accuracy rate  of 5.6 % Loss and 72.76 % accuracy:**
+
 ![image](https://user-images.githubusercontent.com/92903447/157966130-705435ea-ca58-4ce7-8956-4f0049cda58f.png)
 
 
